@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music player</string>
+    <string name="onplay">Music is playing.</string>
+    <string name="onpause">Music Paused.</string>
+    <string name="onstop">Music Stopped: Plzz restart the App.</string>
+</resources>
